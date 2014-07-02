@@ -20,6 +20,6 @@ Add line to application.scss
 
     *= require cropper
 
-## [License](https://github.com/fengyuanchen/cropper/blob/master/LICENSE.md)
+## License
 
 Released under the [MIT](http://opensource.org/licenses/mit-license.html) license.
